@@ -23,8 +23,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/frame"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/frame"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 	"github.com/golang/protobuf/proto"
 )
 

@@ -26,7 +26,7 @@ import (
 	"sync"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/frame"
+	"github.com/jiazhai/vipgoclient/frame"
 )
 
 // Types of subscription supported by Pulsar

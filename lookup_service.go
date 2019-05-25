@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 type LookupData struct {

@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 func TestFrameDecode_Simple(t *testing.T) {

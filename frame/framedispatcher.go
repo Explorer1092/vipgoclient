@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"sync"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/utils"
+	"github.com/jiazhai/vipgoclient/utils"
 )
 
 // NewFrameDispatcher returns an instantiated FrameDispatcher.

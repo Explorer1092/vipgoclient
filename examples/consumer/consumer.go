@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pulsar "code.vipkid.com.cn/zhanghao1/go-pulsar-client"
+	pulsar "github.com/jiazhai/vipgoclient"
 )
 
 func main() {

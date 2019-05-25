@@ -16,7 +16,7 @@ package utils
 import (
 	"fmt"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 // AsyncErrors provides idiom for sending in a non-blocking

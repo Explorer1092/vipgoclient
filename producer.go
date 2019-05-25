@@ -27,8 +27,8 @@ import (
 	"sync"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/frame"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/utils"
+	"github.com/jiazhai/vipgoclient/frame"
+	"github.com/jiazhai/vipgoclient/utils"
 )
 
 var (

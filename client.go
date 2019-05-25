@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/auth"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/utils"
+	"github.com/jiazhai/vipgoclient/auth"
+	"github.com/jiazhai/vipgoclient/utils"
 )
 
 const (

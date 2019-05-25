@@ -21,10 +21,10 @@ import (
 	"sync"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/auth"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/frame"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/utils"
+	"github.com/jiazhai/vipgoclient/auth"
+	"github.com/jiazhai/vipgoclient/frame"
+	"github.com/jiazhai/vipgoclient/pkg/api"
+	"github.com/jiazhai/vipgoclient/utils"
 	"github.com/golang/protobuf/proto"
 )
 

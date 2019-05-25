@@ -20,7 +20,7 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/proto"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 // MaxFrameSize is defined by the Pulsar spec with a single

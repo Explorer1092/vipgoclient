@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 // ################

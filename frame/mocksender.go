@@ -16,7 +16,7 @@ package frame
 import (
 	"sync"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/pkg/api"
+	"github.com/jiazhai/vipgoclient/pkg/api"
 )
 
 // CmdSender is an interface that is capable of sending

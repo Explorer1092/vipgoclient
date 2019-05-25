@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/auth"
-	"code.vipkid.com.cn/zhanghao1/go-pulsar-client/frame"
+	"github.com/jiazhai/vipgoclient/auth"
+	"github.com/jiazhai/vipgoclient/frame"
 )
 
 // NewConn creates a connection to given pulsar server.
